@@ -72,6 +72,11 @@ namespace EveEchoesIndustry.Items
             }
             Validate();
         }
+        public void Multiply(int Mult)
+        {
+            foreach(InventoryItem item in Items)
+                item.Count *= Mult;
+        }
     }
 
     public static class InventoryListConverter

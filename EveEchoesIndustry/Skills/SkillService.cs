@@ -10,6 +10,13 @@ namespace EveEchoesIndustry.Skills
 {
     public class SkillService
     {
-        //private Stora
+        private Storage Storage;
+
+        public Dictionary<string, Skill> DefaultSkills = new Dictionary<string, Skill>();
+
+        public SkillService(Storage storage)
+        {
+            Storage = storage;
+        }
     }
 }
