@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Frigate",
+    "basic": 5,
+    "advanced": 5,
+    "expert": 4
+  },
+  {
+    "name": "Destroyer",
+    "basic": 5,
+    "advanced": 5,
+    "expert": 4
+  },
+  {
+    "name": "Cruiser",
+    "basic": 5,
+    "advanced": 5,
+    "expert": 4
+  },
+  {
+    "name": "Battlecruiser",
+    "basic": 5,
+    "advanced": 5,
+    "expert": 4
+  },
+  {
+    "name": "Battleship",
+    "basic": 5,
+    "advanced": 5,
+    "expert": 4
+  },
+  {
+    "name": "Industrial",
+    "basic": 5,
+    "advanced": 5,
+    "expert": 4
+  }
+]

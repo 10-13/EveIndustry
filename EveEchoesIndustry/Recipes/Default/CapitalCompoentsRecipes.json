@@ -1,0 +1,3890 @@
+[
+  {
+    "product": {
+      "name": "Capital Ship Maintenance Bay",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4960020,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1079423,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 395852,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 62553,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 17433,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 6586,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3160,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1259,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 56686,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 50652,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 64641,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 60572,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 0,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 17011,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 0,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 0,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Capacitor Battery",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4590902,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1213651,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 374816,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 63567,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 18752,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 6985,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3210,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1098,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 56686,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 57052,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 0,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 61075,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 16073,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 15940,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Power Generator",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4567833,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1112980,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 401589,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 65258,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 18187,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 7284,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3642,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 937,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 61075,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 57052,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 64641,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 60572,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 0,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 0,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 64641,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 0,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Launcher Hardpoint",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4337134,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1068237,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 357605,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 79121,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 21014,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 5754,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3293,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1142,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 57052,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 64641,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 61075,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 0,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 0,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 17011,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 0,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 15940,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Armor Plates",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 5029230,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1068237,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 414975,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 58834,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 17339,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 6918,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3093,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1231,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 64641,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 61075,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 60572,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 0,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 17011,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 61075,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 0,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 0,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Sensor Cluster",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4314064,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1168908,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 353781,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 74049,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 17999,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 7018,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3060,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1187,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 50652,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 64641,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 0,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 61075,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 61075,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 16073,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 0,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Shield Emmiter",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4406344,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1224837,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 403501,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 60524,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 18281,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 7118,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3343,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1059,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 64641,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 57052,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 64641,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 57052,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 0,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 0,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 0,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 64641,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 0,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Siege Array",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4706252,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1012308,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 357605,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 77092,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 21768,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 5555,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3809,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 959,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 57052,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 57052,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 60572,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 0,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 61075,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 0,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 15940,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Cargo Bay",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4360204,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1062644,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 372904,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 76416,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 20637,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 6652,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3376,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 987,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 61075,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 64641,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 64641,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 0,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 61075,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 17011,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 0,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 0,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Computer System",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 5029230,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1219244,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 365255,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 58496,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 17904,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 6752,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3227,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1181,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 56686,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 57052,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 61075,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 0,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 61075,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 0,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 64641,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 0,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Construction Parts",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4221785,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1219244,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 405414,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 63229,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 20449,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 6053,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3276,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1131,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 61075,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 64641,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 64641,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 57052,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 0,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 0,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 17011,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 0,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 0,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Clone Vat Bay",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4844671,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 973158,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 386290,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 72358,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 16397,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 7151,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3426,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1137,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 56686,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 57052,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 57052,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 61075,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 0,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 0,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 61075,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 0,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 0,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Corporate Hangar Bay",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4452483,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1224837,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 370992,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 65596,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 19318,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 6453,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3493,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1059,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 61075,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 64641,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 50652,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 64641,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 0,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 0,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 0,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 64641,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 0,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Doomsday Weapon Mount",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4867741,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1073830,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 357605,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 71006,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 19035,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 6719,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3193,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1131,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 57052,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 50652,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 57052,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 0,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 0,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 17011,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 16073,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 0,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Turret Hardpoint",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4221785,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1079423,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 403501,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 72020,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 19883,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 7284,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3409,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 915,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 64641,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 60572,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 0,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 16073,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 64641,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 15940,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Jump Bridge Array",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4913880,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1096201,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 397764,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 61877,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 17150,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 6153,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3210,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1331,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 57052,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 61075,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 0,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 61075,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 16073,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 15940,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Jump Drive",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4844671,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1268685,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 378641,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 63905,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 17904,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 7184,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3626,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 976,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 61075,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 64641,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 0,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 61075,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 0,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 16073,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 15940,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  },
+  {
+    "product": {
+      "name": "Capital Propulsion Engine",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 4244855,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 1073830,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 392027,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 74049,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 17245,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 6652,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 3010,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Morphite",
+            "cost": 1500.0
+          },
+          "count": 1309,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Lustering Alloy",
+            "cost": 112.0
+          },
+          "count": 56686,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Sheen Compound",
+            "cost": 195.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Gleaming Alloy",
+            "cost": 80.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Condensed Alloy",
+            "cost": 165.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Precious Alloy",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Motley Compound",
+            "cost": 235.0
+          },
+          "count": 57052,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Fiber Composite",
+            "cost": 198.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Lucent Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Opulent Compound",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Glossy Compound",
+            "cost": 160.0
+          },
+          "count": 0,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Crystal Compound",
+            "cost": 275.0
+          },
+          "count": 60572,
+          "id": 19
+        },
+        {
+          "item": {
+            "name": "Dark Compound",
+            "cost": 380.0
+          },
+          "count": 0,
+          "id": 20
+        },
+        {
+          "item": {
+            "name": "Base Metals",
+            "cost": 350.0
+          },
+          "count": 0,
+          "id": 21
+        },
+        {
+          "item": {
+            "name": "Heavy Metals",
+            "cost": 225.0
+          },
+          "count": 61075,
+          "id": 22
+        },
+        {
+          "item": {
+            "name": "Reactive Metals",
+            "cost": 310.0
+          },
+          "count": 0,
+          "id": 23
+        },
+        {
+          "item": {
+            "name": "Noble Metals",
+            "cost": 160.0
+          },
+          "count": 64641,
+          "id": 24
+        },
+        {
+          "item": {
+            "name": "Toxic Metals",
+            "cost": 780.0
+          },
+          "count": 0,
+          "id": 25
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 150000000,
+    "productTime": 86400,
+    "productCount": 1,
+    "blueprintCost": 0,
+    "type": "Component"
+  }
+]

@@ -1,0 +1,3512 @@
+[
+  {
+    "product": {
+      "name": "Corporation Outpost",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 25,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 17,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 9,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 13,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 100000000
+  },
+  {
+    "product": {
+      "name": "Capsuleer Outpost",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 450000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 10000000
+  },
+  {
+    "product": {
+      "name": "Corporation Outpost II",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 12,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 18,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 18,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 30,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 18,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 24,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Corporation Outpost III",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 34,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 23,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 23,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 34,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 12,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 56,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 34,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 34,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 12,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 23,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 12,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Assembly Workshop ",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 350000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 50000000
+  },
+  {
+    "product": {
+      "name": "Assembly Workshop II",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 8,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Assembly Workshop III",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 8,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 15,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 22,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 15,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 8,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Tax Center ",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 300000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 50000000
+  },
+  {
+    "product": {
+      "name": "Tax Center II",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 8,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Tax Center III",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 9,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 23,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 12,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Bounty Management Center ",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 300000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 50000000
+  },
+  {
+    "product": {
+      "name": "Bounty Management Center II",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Bounty Management Center III",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 18,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 15,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 9,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Pirate Detection Array",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 350000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 50000000
+  },
+  {
+    "product": {
+      "name": "Pirate Detection Array II",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Pirate Detection Array III",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 8,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 12,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 20,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Space Lab",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 300000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 50000000
+  },
+  {
+    "product": {
+      "name": "Space Lab II",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Space Lab III",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 17,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 9,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 11,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 9,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Analytical Computer",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 350000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 50000000
+  },
+  {
+    "product": {
+      "name": "Analytical Computer II",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Analytical Computer III",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 8,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 11,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 8,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 14,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Cynosural Beacon Tower",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 300000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 50000000
+  },
+  {
+    "product": {
+      "name": "Cynosural Jammer Tower",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 350000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 50000000
+  },
+  {
+    "product": {
+      "name": "Base Detection Array",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 400000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 50000000
+  },
+  {
+    "product": {
+      "name": "Base Detection Array II",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Structure Construction Parts",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Structure Storage Bay",
+            "cost": -1.0
+          },
+          "count": 1,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Structure Docking Bay",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Structure Repair Facility",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Structure Electomagnetic Sensor",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Structure Factory",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Structure Reprocessing Plant",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Structure Laboratory",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Structure Mission Network",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Structure Medical Center",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Structure Hangar Array",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Structure Accleration Coils",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Structure Office Center",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Structure Advertisement Nexus",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Structure Market Network",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 15
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "name": "Tritanium",
+      "cost": 1.62
+    },
+    {
+      "name": "Pyerite",
+      "cost": 3.50
+    },
+    {
+      "name": "Mexallon",
+      "cost": 18
+    },
+    {
+      "name": "Isogen",
+      "cost": 23
+    },
+    {
+      "name": "Nocxium",
+      "cost": 178
+    },
+    {
+      "name": "Zydrine",
+      "cost": 920
+    },
+    {
+      "name": "Megacyte",
+      "cost": 2400
+    },
+    {
+      "name": "Reactive Gas",
+      "cost": 70
+    },
+    {
+      "name": "Noble Gas",
+      "cost": 110
+    },
+    {
+      "name": "Industrial Fibers",
+      "cost": 300
+    },
+    {
+      "name": "Supertensile Plastics",
+      "cost": 320
+    },
+    {
+      "name": "Polyaramids",
+      "cost": 45
+    },
+    {
+      "name": "Coolant",
+      "cost": 210
+    },
+    {
+      "name": "Condensates",
+      "cost": 120
+    },
+    {
+      "name": "Construction Blocks",
+      "cost": 130
+    },
+    {
+      "name": "Nanites",
+      "cost": 280
+    },
+    {
+      "name": "Silicate Glass",
+      "cost": 450
+    },
+    {
+      "name": "Smartfab Units",
+      "cost": 138
+    }
+  ],
+  "fieldTypes": [
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    7
+  ]
+}

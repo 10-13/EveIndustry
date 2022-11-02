@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "name": "Tritanium",
+      "cost": 1.62
+    },
+    {
+      "name": "Pyerite",
+      "cost": 3.50
+    },
+    {
+      "name": "Mexallon",
+      "cost": 18
+    },
+    {
+      "name": "Isogen",
+      "cost": 23
+    },
+    {
+      "name": "Nocxium",
+      "cost": 178
+    },
+    {
+      "name": "Zydrine",
+      "cost": 920
+    },
+    {
+      "name": "Megacyte",
+      "cost": 2400
+    },
+    {
+      "name": "Morphite",
+      "cost": 1500
+    },
+    {
+      "name": "Lustering Alloy",
+      "cost": 112
+    },
+    {
+      "name": "Sheen Compound",
+      "cost": 195
+    },
+    {
+      "name": "Gleaming Alloy",
+      "cost": 80
+    },
+    {
+      "name": "Condensed Alloy",
+      "cost": 165
+    },
+    {
+      "name": "Precious Alloy",
+      "cost": 350
+    },
+    {
+      "name": "Motley Compound",
+      "cost": 235
+    },
+    {
+      "name": "Fiber Composite",
+      "cost": 198
+    },
+    {
+      "name": "Lucent Compound",
+      "cost": 160
+    },
+    {
+      "name": "Opulent Compound",
+      "cost": 120
+    },
+    {
+      "name": "Glossy Compound",
+      "cost": 160
+    },
+    {
+      "name": "Crystal Compound",
+      "cost": 275
+    },
+    {
+      "name": "Dark Compound",
+      "cost": 380
+    },
+    {
+      "name": "Base Metals",
+      "cost": 350
+    },
+    {
+      "name": "Heavy Metals",
+      "cost": 225
+    },
+    {
+      "name": "Reactive Metals",
+      "cost": 310
+    },
+    {
+      "name": "Noble Metals",
+      "cost": 160
+    },
+    {
+      "name": "Toxic Metals",
+      "cost": 780
+    }
+  ],
+  "fieldTypes": [
+    2,
+    8,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    6,
+    4
+  ]
+}

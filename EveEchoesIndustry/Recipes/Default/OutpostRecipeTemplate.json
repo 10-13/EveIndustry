@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "name": "Structure Construction Parts",
+      "cost": -1
+    },
+    {
+      "name": "Structure Storage Bay",
+      "cost": -1
+    },
+    {
+      "name": "Structure Docking Bay",
+      "cost": -1
+    },
+    {
+      "name": "Structure Repair Facility",
+      "cost": -1
+    },
+    {
+      "name": "Structure Electomagnetic Sensor",
+      "cost": -1
+    },
+    {
+      "name": "Structure Factory",
+      "cost": -1
+    },
+    {
+      "name": "Structure Reprocessing Plant",
+      "cost": -1
+    },
+    {
+      "name": "Structure Laboratory",
+      "cost": -1
+    },
+    {
+      "name": "Structure Mission Network",
+      "cost": -1
+    },
+    {
+      "name": "Structure Medical Center",
+      "cost": -1
+    },
+    {
+      "name": "Structure Hangar Array",
+      "cost": -1
+    },
+    {
+      "name": "Structure Accleration Coils",
+      "cost": -1
+    },
+    {
+      "name": "Structure Office Center",
+      "cost": -1
+    },
+    {
+      "name": "Structure Advertisement Nexus",
+      "cost": -1
+    },
+    {
+      "name": "Structure Market Network",
+      "cost": -1
+    }
+  ],
+  "fieldTypes": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 7 ]
+}

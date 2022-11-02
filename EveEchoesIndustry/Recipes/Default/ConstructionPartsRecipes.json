@@ -1,0 +1,3818 @@
+[
+  {
+    "product": {
+      "name": "Structure Construction Parts",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 330463,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 46168,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 13938,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 4869,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2664,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 25057,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 7494,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 14894,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 19992,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 10052,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 33862819,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 9092898
+  },
+  {
+    "product": {
+      "name": "Structure Storage Bay",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 253578,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 50145,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 15588,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 5279,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2076,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 18533,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 15028,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 17212,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 6130,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 14664,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 53082761,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 16157822
+  },
+  {
+    "product": {
+      "name": "Structure Docking Bay",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 316537,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 54022,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 13383,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 5035,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 1785,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 24256,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 6087,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 17566,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 20100,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 5417,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 58106359,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 15337202
+  },
+  {
+    "product": {
+      "name": "Structure Repair Facility",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 277079,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 50548,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 13924,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 4610,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2515,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 26353,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 13935,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 12105,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 10355,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 19442,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 19015277,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 5013357
+  },
+  {
+    "product": {
+      "name": "Structure Electromagnetic Sensor",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 254448,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 49642,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 15352,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 4968,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2615,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 17668,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 18583,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 15900,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 11733,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 16095,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 19443212,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 4338937
+  },
+  {
+    "product": {
+      "name": "Structure Factory",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 285783,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 45715,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 14534,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 4170,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2754,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 22295,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 6718,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 16377,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 20185,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 6110,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 105495692,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 22802999
+  },
+  {
+    "product": {
+      "name": "Structure Reprocessing Plant",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 293326,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 45715,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 15907,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 4263,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2425,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 19466,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 11768,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 14086,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 6700,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 21596,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Structure Laboratory",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 310154,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 46017,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 13244,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 4874,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2233,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 23384,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 6677,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 16096,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 17298,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 12939,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Structure Mission Network",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 256769,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 49440,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 13674,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 5025,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2560,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 23584,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 14192,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 18426,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 10302,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 15798,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Structure Medical Center",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 278239,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 46319,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 11871,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 5333,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2784,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 28118,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 12305,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 14329,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 20514,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 6784,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Structure Hangar Array",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 254448,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 56539,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 11636,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 4664,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2789,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 25931,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 16787,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 15066,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 17841,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 11406,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 19089697,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 5008641
+  },
+  {
+    "product": {
+      "name": "Structure Acceleration Coils",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 319148,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 56740,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 12717,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 5348,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2572,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 18678,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 13589,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 18292,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 7060,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 16084,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 14363788,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 4519281
+  },
+  {
+    "product": {
+      "name": "Structure Office Center",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 288684,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 50850,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 11927,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 4971,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2976,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 25178,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 4994,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 15760,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 6710,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 17801,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 59278543,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 12196190
+  },
+  {
+    "product": {
+      "name": "Structure Advertisement Nexus",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 331624,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 56186,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 14270,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 4072,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 2664,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 23828,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 17012,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 14292,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 24243,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 9281,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 17657041,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 4060682
+  },
+  {
+    "product": {
+      "name": "Structure Market Network",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 301740,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 51152,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 16059,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 5846,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 1974,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 32054,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 12739,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 14912,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 17652,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 9308,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 20000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 10000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 62069441,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 18185796
+  },
+  {
+    "product": {
+      "name": "Standard Standup Small Missile Launcher",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 76200,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 12413,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 4137,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 1316,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 580,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 52104,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 31168,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 24713,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 18751,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 28203,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 9500000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 1750000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Standard Standup Medium Missile Launcher",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 73351,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 11865,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 4163,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 1159,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 713,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 42091,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 29483,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 24806,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 17248,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 39104,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 9500000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 1750000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Standard Standup Large Missile Launcher",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 78306,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 11205,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 4263,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 1473,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 714,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 54272,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 21009,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 31339,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 18174,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 30811,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 9500000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 1750000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Standard Standup Statis Webifier",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 114456,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 18229,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 4801,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 1558,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 1015,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 63237,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 21849,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 25003,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 51611,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 17743,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 15000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 2625000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Standard Standup Warp Disruptor",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 93597,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 17832,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 5573,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 1819,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 747,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 57865,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 47473,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 50056,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 34883,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 49448,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 15000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 2625000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Standard Standup Energy Neutralizer",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 132053,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 17060,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 4895,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 1655,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 931,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 77672,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 45651,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 43126,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 46720,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 37850,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 15000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 2625000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Industry Service Center",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 367419,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 75690,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 15381,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 6297,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 3989,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 274992,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 120551,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 136350,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 288392,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 84213,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 50000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 8750000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Resource Extraction Center",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 801322,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 142382,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 44209,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 18232,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 8343,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 690446,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 166729,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 385152,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 342225,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 391652,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 150000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 30000000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  },
+  {
+    "product": {
+      "name": "Magnetic Gravity Well Trap",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Tritanium",
+            "cost": 2.0
+          },
+          "count": 1770487,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Pyerite",
+            "cost": 4.0
+          },
+          "count": 355514,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Mexallon",
+            "cost": 18.0
+          },
+          "count": 95356,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Isogen",
+            "cost": 23.0
+          },
+          "count": 35206,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Nocxium",
+            "cost": 178.0
+          },
+          "count": 16104,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Zydrine",
+            "cost": 920.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Megacyte",
+            "cost": 2400.0
+          },
+          "count": 1271320,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Reactive Gas",
+            "cost": 70.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Noble Gas",
+            "cost": 110.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Industrial Fibers",
+            "cost": 300.0
+          },
+          "count": 775941,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Supertensile Plastics",
+            "cost": 320.0
+          },
+          "count": 0,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Polyaramids",
+            "cost": 45.0
+          },
+          "count": 893974,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Coolant",
+            "cost": 210.0
+          },
+          "count": 1145972,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Condensates",
+            "cost": 120.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Construction Blocks",
+            "cost": 130.0
+          },
+          "count": 618770,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Nanites",
+            "cost": 280.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Silicate Glass",
+            "cost": 450.0
+          },
+          "count": 250000000,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Smartfab Units",
+            "cost": 138.0
+          },
+          "count": 60000000,
+          "id": 18
+        }
+      ]
+    },
+    "tech": 0,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0
+  }
+]

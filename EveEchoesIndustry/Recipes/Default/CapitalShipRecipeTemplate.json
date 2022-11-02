@@ -1,0 +1,105 @@
+{
+  "items": [
+    {
+      "name": "Capital Ship Maintenance Bay",
+      "cost": -1
+    },
+    {
+      "name": "Capital Capacitor Battery",
+      "cost": -1
+    },
+    {
+      "name": "Capital Power Generator",
+      "cost": -1
+    },
+    {
+      "name": "Capital Launcher Hardpoint",
+      "cost": -1
+    },
+    {
+      "name": "Capital Armor Plates",
+      "cost": -1
+    },
+    {
+      "name": "Capital Sensor Cluster",
+      "cost": -1
+    },
+    {
+      "name": "Capital Shield Emmiter",
+      "cost": -1
+    },
+    {
+      "name": "Capital Siege Array",
+      "cost": -1
+    },
+    {
+      "name": "Capital Cargo Bay",
+      "cost": -1
+    },
+    {
+      "name": "Capital Computer System",
+      "cost": -1
+    },
+    {
+      "name": "Capital Construction Parts",
+      "cost": -1
+    },
+    {
+      "name": "Capital Clone Vat Bay",
+      "cost": -1
+    },
+    {
+      "name": "Capital Corporate Hangar Bay",
+      "cost": -1
+    },
+    {
+      "name": "Capital Doomsday Weapon Mount",
+      "cost": -1
+    },
+    {
+      "name": "Capital Turret Hardpoint",
+      "cost": -1
+    },
+    {
+      "name": "Capital Jump Bridge Array",
+      "cost": -1
+    },
+    {
+      "name": "Capital Jump Drive",
+      "cost": -1
+    },
+    {
+      "name": "Capital Propulsion Engine",
+      "cost": -1
+    },
+    {
+      "name": "Capital Drone Bay",
+      "cost": -1
+    }
+  ],
+  "fieldTypes": [
+    2,
+    8,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5
+  ]
+}

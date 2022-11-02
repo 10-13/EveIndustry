@@ -1,0 +1,2018 @@
+[
+  {
+    "product": {
+      "name": "Charon",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Capital Ship Maintenance Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Capital Capacitor Battery",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Capital Power Generator",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Capital Launcher Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Capital Armor Plates",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Capital Sensor Cluster",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Capital Shield Emmiter",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Capital Siege Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Capital Cargo Bay",
+            "cost": -1.0
+          },
+          "count": 20,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Capital Computer System",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Capital Construction Parts",
+            "cost": -1.0
+          },
+          "count": 10,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Capital Clone Vat Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Capital Corporate Hangar Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Capital Doomsday Weapon Mount",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Capital Turret Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Capital Jump Bridge Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Capital Jump Drive",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Capital Propulsion Engine",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Capital Drone Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 19
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 1500000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0,
+    "type": "Frieghter"
+  },
+  {
+    "product": {
+      "name": "Fenrir",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Capital Ship Maintenance Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Capital Capacitor Battery",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Capital Power Generator",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Capital Launcher Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Capital Armor Plates",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Capital Sensor Cluster",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Capital Shield Emmiter",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Capital Siege Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Capital Cargo Bay",
+            "cost": -1.0
+          },
+          "count": 16,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Capital Computer System",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Capital Construction Parts",
+            "cost": -1.0
+          },
+          "count": 10,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Capital Clone Vat Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Capital Corporate Hangar Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Capital Doomsday Weapon Mount",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Capital Turret Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Capital Jump Bridge Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Capital Jump Drive",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Capital Propulsion Engine",
+            "cost": -1.0
+          },
+          "count": 6,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Capital Drone Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 19
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 1500000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0,
+    "type": "Frieghter"
+  },
+  {
+    "product": {
+      "name": "Providence",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Capital Ship Maintenance Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Capital Capacitor Battery",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Capital Power Generator",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Capital Launcher Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Capital Armor Plates",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Capital Sensor Cluster",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Capital Shield Emmiter",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Capital Siege Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Capital Cargo Bay",
+            "cost": -1.0
+          },
+          "count": 16,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Capital Computer System",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Capital Construction Parts",
+            "cost": -1.0
+          },
+          "count": 10,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Capital Clone Vat Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Capital Corporate Hangar Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Capital Doomsday Weapon Mount",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Capital Turret Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Capital Jump Bridge Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Capital Jump Drive",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Capital Propulsion Engine",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Capital Drone Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 19
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 1500000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0,
+    "type": "Frieghter"
+  },
+  {
+    "product": {
+      "name": "Obelisk",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Capital Ship Maintenance Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Capital Capacitor Battery",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Capital Power Generator",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Capital Launcher Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Capital Armor Plates",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Capital Sensor Cluster",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Capital Shield Emmiter",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Capital Siege Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Capital Cargo Bay",
+            "cost": -1.0
+          },
+          "count": 17,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Capital Computer System",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Capital Construction Parts",
+            "cost": -1.0
+          },
+          "count": 11,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Capital Clone Vat Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Capital Corporate Hangar Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Capital Doomsday Weapon Mount",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Capital Turret Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Capital Jump Bridge Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Capital Jump Drive",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Capital Propulsion Engine",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Capital Drone Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 19
+        }
+      ]
+    },
+    "tech": 9,
+    "cost": 1500000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0,
+    "type": "Frieghter"
+  },
+  {
+    "product": {
+      "name": "Thanatos",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Capital Ship Maintenance Bay",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Capital Capacitor Battery",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Capital Power Generator",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Capital Launcher Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Capital Armor Plates",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Capital Sensor Cluster",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Capital Shield Emmiter",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Capital Siege Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Capital Cargo Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Capital Computer System",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Capital Construction Parts",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Capital Clone Vat Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Capital Corporate Hangar Bay",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Capital Doomsday Weapon Mount",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Capital Turret Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Capital Jump Bridge Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Capital Jump Drive",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Capital Propulsion Engine",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Capital Drone Bay",
+            "cost": -1.0
+          },
+          "count": 20,
+          "id": 19
+        }
+      ]
+    },
+    "tech": 10,
+    "cost": 2000000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0,
+    "type": "Carrier"
+  },
+  {
+    "product": {
+      "name": "Nidhoggur",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Capital Ship Maintenance Bay",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Capital Capacitor Battery",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Capital Power Generator",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Capital Launcher Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Capital Armor Plates",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Capital Sensor Cluster",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Capital Shield Emmiter",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Capital Siege Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Capital Cargo Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Capital Computer System",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Capital Construction Parts",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Capital Clone Vat Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Capital Corporate Hangar Bay",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Capital Doomsday Weapon Mount",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Capital Turret Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Capital Jump Bridge Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Capital Jump Drive",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Capital Propulsion Engine",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Capital Drone Bay",
+            "cost": -1.0
+          },
+          "count": 20,
+          "id": 19
+        }
+      ]
+    },
+    "tech": 10,
+    "cost": 2000000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0,
+    "type": "Carrier"
+  },
+  {
+    "product": {
+      "name": "Archon",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Capital Ship Maintenance Bay",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Capital Capacitor Battery",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Capital Power Generator",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Capital Launcher Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Capital Armor Plates",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Capital Sensor Cluster",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Capital Shield Emmiter",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Capital Siege Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Capital Cargo Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Capital Computer System",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Capital Construction Parts",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Capital Clone Vat Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Capital Corporate Hangar Bay",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Capital Doomsday Weapon Mount",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Capital Turret Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Capital Jump Bridge Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Capital Jump Drive",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Capital Propulsion Engine",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Capital Drone Bay",
+            "cost": -1.0
+          },
+          "count": 20,
+          "id": 19
+        }
+      ]
+    },
+    "tech": 10,
+    "cost": 2000000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0,
+    "type": "Carrier"
+  },
+  {
+    "product": {
+      "name": "Chimera",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Capital Ship Maintenance Bay",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Capital Capacitor Battery",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Capital Power Generator",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Capital Launcher Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Capital Armor Plates",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Capital Sensor Cluster",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Capital Shield Emmiter",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Capital Siege Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Capital Cargo Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Capital Computer System",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Capital Construction Parts",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Capital Clone Vat Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Capital Corporate Hangar Bay",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Capital Doomsday Weapon Mount",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Capital Turret Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Capital Jump Bridge Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Capital Jump Drive",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Capital Propulsion Engine",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Capital Drone Bay",
+            "cost": -1.0
+          },
+          "count": 20,
+          "id": 19
+        }
+      ]
+    },
+    "tech": 10,
+    "cost": 2000000000,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0,
+    "type": "Carrier"
+  },
+  {
+    "product": {
+      "name": "Revelation",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Capital Ship Maintenance Bay",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Capital Capacitor Battery",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Capital Power Generator",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Capital Launcher Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Capital Armor Plates",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Capital Sensor Cluster",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Capital Shield Emmiter",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Capital Siege Array",
+            "cost": -1.0
+          },
+          "count": 14,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Capital Cargo Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Capital Computer System",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Capital Construction Parts",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Capital Clone Vat Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Capital Corporate Hangar Bay",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Capital Doomsday Weapon Mount",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Capital Turret Hardpoint",
+            "cost": -1.0
+          },
+          "count": 16,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Capital Jump Bridge Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Capital Jump Drive",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Capital Propulsion Engine",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Capital Drone Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 19
+        }
+      ]
+    },
+    "tech": 10,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0,
+    "type": "Dreadnaught"
+  },
+  {
+    "product": {
+      "name": "Moros",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Capital Ship Maintenance Bay",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Capital Capacitor Battery",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Capital Power Generator",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Capital Launcher Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Capital Armor Plates",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Capital Sensor Cluster",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Capital Shield Emmiter",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Capital Siege Array",
+            "cost": -1.0
+          },
+          "count": 14,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Capital Cargo Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Capital Computer System",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Capital Construction Parts",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Capital Clone Vat Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Capital Corporate Hangar Bay",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Capital Doomsday Weapon Mount",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Capital Turret Hardpoint",
+            "cost": -1.0
+          },
+          "count": 16,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Capital Jump Bridge Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Capital Jump Drive",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Capital Propulsion Engine",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Capital Drone Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 19
+        }
+      ]
+    },
+    "tech": 10,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0,
+    "type": "Dreadnaught"
+  },
+  {
+    "product": {
+      "name": "Naglfar",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Capital Ship Maintenance Bay",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Capital Capacitor Battery",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Capital Power Generator",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Capital Launcher Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Capital Armor Plates",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Capital Sensor Cluster",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Capital Shield Emmiter",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Capital Siege Array",
+            "cost": -1.0
+          },
+          "count": 14,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Capital Cargo Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Capital Computer System",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Capital Construction Parts",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Capital Clone Vat Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Capital Corporate Hangar Bay",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Capital Doomsday Weapon Mount",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Capital Turret Hardpoint",
+            "cost": -1.0
+          },
+          "count": 16,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Capital Jump Bridge Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Capital Jump Drive",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Capital Propulsion Engine",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Capital Drone Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 19
+        }
+      ]
+    },
+    "tech": 10,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0,
+    "type": "Dreadnaught"
+  },
+  {
+    "product": {
+      "name": "Phoenix",
+      "cost": 0.0
+    },
+    "requirements": {
+      "items": [
+        {
+          "item": {
+            "name": "Capital Ship Maintenance Bay",
+            "cost": -1.0
+          },
+          "count": 5,
+          "id": 1
+        },
+        {
+          "item": {
+            "name": "Capital Capacitor Battery",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 2
+        },
+        {
+          "item": {
+            "name": "Capital Power Generator",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 3
+        },
+        {
+          "item": {
+            "name": "Capital Launcher Hardpoint",
+            "cost": -1.0
+          },
+          "count": 16,
+          "id": 4
+        },
+        {
+          "item": {
+            "name": "Capital Armor Plates",
+            "cost": -1.0
+          },
+          "count": 2,
+          "id": 5
+        },
+        {
+          "item": {
+            "name": "Capital Sensor Cluster",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 6
+        },
+        {
+          "item": {
+            "name": "Capital Shield Emmiter",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 7
+        },
+        {
+          "item": {
+            "name": "Capital Siege Array",
+            "cost": -1.0
+          },
+          "count": 14,
+          "id": 8
+        },
+        {
+          "item": {
+            "name": "Capital Cargo Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 9
+        },
+        {
+          "item": {
+            "name": "Capital Computer System",
+            "cost": -1.0
+          },
+          "count": 7,
+          "id": 10
+        },
+        {
+          "item": {
+            "name": "Capital Construction Parts",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 11
+        },
+        {
+          "item": {
+            "name": "Capital Clone Vat Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 12
+        },
+        {
+          "item": {
+            "name": "Capital Corporate Hangar Bay",
+            "cost": -1.0
+          },
+          "count": 3,
+          "id": 13
+        },
+        {
+          "item": {
+            "name": "Capital Doomsday Weapon Mount",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 14
+        },
+        {
+          "item": {
+            "name": "Capital Turret Hardpoint",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 15
+        },
+        {
+          "item": {
+            "name": "Capital Jump Bridge Array",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 16
+        },
+        {
+          "item": {
+            "name": "Capital Jump Drive",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 17
+        },
+        {
+          "item": {
+            "name": "Capital Propulsion Engine",
+            "cost": -1.0
+          },
+          "count": 4,
+          "id": 18
+        },
+        {
+          "item": {
+            "name": "Capital Drone Bay",
+            "cost": -1.0
+          },
+          "count": 0,
+          "id": 19
+        }
+      ]
+    },
+    "tech": 10,
+    "cost": 0,
+    "productTime": 0,
+    "productCount": 0,
+    "blueprintCost": 0,
+    "type": "Dreadnaught"
+  }
+]
