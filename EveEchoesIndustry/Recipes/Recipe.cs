@@ -57,5 +57,10 @@ namespace EveEchoesIndustry.Recipes
                 id: Product.Name
                 );
         }
+
+        public override string ToString()
+        {
+            return Product.Name + " " + Count.ToString() + "x";
+        }
     }
 }

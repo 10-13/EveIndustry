@@ -22,12 +22,10 @@ namespace EveIndustry.Instruments.Recipes
 
         private void button1_Click(object sender, EventArgs e)
         {
-            RecipeTemplate f = JsonConvert.DeserializeObject<RecipeTemplate>(richTextBox1.Text);
-            if(f != null)
-            {
-                var d = RecipeParcer.FromCSVString(richTextBox2.Lines, f);
-                Clipboard.SetText(JsonConvert.SerializeObject(d));
-            }
+            var f = JsonConvert.DeserializeObject<List<Recipe>>(richTextBox1.Text);
+            foreach (Recipe r in f)
+                r.Type = "Structure";
+            richTextBox2.Text = JsonConvert.SerializeObject(f);
         }
     }
 }

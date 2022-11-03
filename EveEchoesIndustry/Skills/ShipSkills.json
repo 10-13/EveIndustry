@@ -1,38 +1,80 @@
 [
   {
     "name": "Frigate",
-    "basic": 5,
-    "advanced": 5,
+    "basic": 30,
+    "advanced": 20,
     "expert": 4
   },
   {
     "name": "Destroyer",
-    "basic": 5,
-    "advanced": 5,
+    "basic": 30,
+    "advanced": 20,
     "expert": 4
   },
   {
     "name": "Cruiser",
-    "basic": 5,
-    "advanced": 5,
+    "basic": 30,
+    "advanced": 20,
     "expert": 4
   },
   {
     "name": "Battlecruiser",
-    "basic": 5,
-    "advanced": 5,
+    "basic": 30,
+    "advanced": 20,
     "expert": 4
   },
   {
     "name": "Battleship",
-    "basic": 5,
-    "advanced": 5,
+    "basic": 30,
+    "advanced": 20,
     "expert": 4
   },
   {
     "name": "Industrial",
-    "basic": 5,
-    "advanced": 5,
+    "basic": 30,
+    "advanced": 20,
     "expert": 4
+  },
+  {
+    "name": "Freighter",
+    "basic": 30,
+    "advanced": 20,
+    "expert": 4
+  },
+  {
+    "name": "Carrier",
+    "basic": 30,
+    "advanced": 20,
+    "expert": 4
+  },
+  {
+    "name": "Dread",
+    "basic": 30,
+    "advanced": 20,
+    "expert": 4
+  },
+  {
+    "name": "Industrial",
+    "basic": 30,
+    "advanced": 20,
+    "expert": 4
+  },
+  {
+    "name": "Component",
+    "basic": 30,
+    "advanced": 20,
+    "expert": 5
+  },
+  {
+    "name": "Structure",
+    "basic": 30,
+    "advanced": 20,
+    "expert": 5
+  },
+  {
+    "name": "Outpost",
+    "basic": 30,
+    "advanced": 20,
+    "expert": 5
   }
 ]

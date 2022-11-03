@@ -1,5 +1,6 @@
 ﻿using EveEchoesIndustry.Items;
 using EveEchoesIndustry.Recipes;
+using EveEchoesIndustry.Skills;
 using Newtonsoft.Json;
 using System;
 using System.Collections;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace EveEchoesIndustry.Services
 {
-    public class RecipeService
+    public class RecipeService : IEnumerable<Recipe>
     {
         private Storage Storage { get; set; }
 
@@ -25,14 +26,16 @@ namespace EveEchoesIndustry.Services
             if (DefaultRecipes != null)
                 foreach (var recipeList in DefaultRecipes)
                     LoadRecipes(recipeList);
+            if (DefaultRecipes == null)
+                DefaultRecipes = new List<string>();
         }
 
         public IEnumerable<string> GetActualFiles()
         {
             return from f in Storage.GetDirectoryInfo().EnumerateFiles()
+                   where f.Name != "def.json"
                    select f.Name;
         }
-
         public void LoadRecipes(string FileName)
         {
             List<Recipe> rs = JsonConvert.DeserializeObject<List<Recipe>>(Storage.ReadFromFile(FileName));
@@ -44,21 +47,20 @@ namespace EveEchoesIndustry.Services
                     Recipes.Add(r.Product.Name, r);
             }
         }
-
         public bool ContainsRecipe(string Name)
         {
             return Recipes.ContainsKey(Name);
         }
-
         public Recipe GetRecipe(string Name)
         {
             return Recipes[Name];
         }
-
         public void Save()
         {
             Storage.WriteToFile("def.json", JsonConvert.SerializeObject(DefaultRecipes));
         }
+
+
 
         public void ExtendRecipe(ref Recipe recipe)
         {
@@ -86,6 +88,17 @@ namespace EveEchoesIndustry.Services
                         toRemove.Items.Add(item);
                     }
             }
+        }
+
+
+
+        public IEnumerator<Recipe> GetEnumerator()
+        {
+            return Recipes.Values.GetEnumerator();
+        }
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return (Recipes.Values as IEnumerable).GetEnumerator();
         }
     }
 }

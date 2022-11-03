@@ -115,6 +115,11 @@ namespace EveEchoesIndustry.Skills
         {
             return GetProcentageMatirialEffeciency() / 100;
         }
+
+        public override string ToString()
+        {
+            return Array.IndexOf(Enum.GetValues<Basic>(), BasicSkill).ToString() + "\\" + Array.IndexOf(Enum.GetValues<Basic>(), AdvancedSkill).ToString() + "\\" + Array.IndexOf(Enum.GetValues<Expert>(), ExpertSkill).ToString();
+        }
     }
 
     public class CapitalSkill : Skill

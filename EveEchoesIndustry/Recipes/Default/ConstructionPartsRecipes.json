@@ -156,7 +156,8 @@
     "cost": 33862819,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 9092898
+    "blueprintCost": 9092898,
+    "type": "Structure"
   },
   {
     "product": {
@@ -315,7 +316,8 @@
     "cost": 53082761,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 16157822
+    "blueprintCost": 16157822,
+    "type": "Structure"
   },
   {
     "product": {
@@ -474,7 +476,8 @@
     "cost": 58106359,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 15337202
+    "blueprintCost": 15337202,
+    "type": "Structure"
   },
   {
     "product": {
@@ -633,7 +636,8 @@
     "cost": 19015277,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 5013357
+    "blueprintCost": 5013357,
+    "type": "Structure"
   },
   {
     "product": {
@@ -792,7 +796,8 @@
     "cost": 19443212,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 4338937
+    "blueprintCost": 4338937,
+    "type": "Structure"
   },
   {
     "product": {
@@ -951,7 +956,8 @@
     "cost": 105495692,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 22802999
+    "blueprintCost": 22802999,
+    "type": "Structure"
   },
   {
     "product": {
@@ -1110,7 +1116,8 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   },
   {
     "product": {
@@ -1269,7 +1276,8 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   },
   {
     "product": {
@@ -1428,7 +1436,8 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   },
   {
     "product": {
@@ -1587,7 +1596,8 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   },
   {
     "product": {
@@ -1746,7 +1756,8 @@
     "cost": 19089697,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 5008641
+    "blueprintCost": 5008641,
+    "type": "Structure"
   },
   {
     "product": {
@@ -1905,7 +1916,8 @@
     "cost": 14363788,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 4519281
+    "blueprintCost": 4519281,
+    "type": "Structure"
   },
   {
     "product": {
@@ -2064,7 +2076,8 @@
     "cost": 59278543,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 12196190
+    "blueprintCost": 12196190,
+    "type": "Structure"
   },
   {
     "product": {
@@ -2223,7 +2236,8 @@
     "cost": 17657041,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 4060682
+    "blueprintCost": 4060682,
+    "type": "Structure"
   },
   {
     "product": {
@@ -2382,7 +2396,8 @@
     "cost": 62069441,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 18185796
+    "blueprintCost": 18185796,
+    "type": "Structure"
   },
   {
     "product": {
@@ -2541,7 +2556,8 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   },
   {
     "product": {
@@ -2700,7 +2716,8 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   },
   {
     "product": {
@@ -2859,7 +2876,8 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   },
   {
     "product": {
@@ -3018,7 +3036,8 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   },
   {
     "product": {
@@ -3177,7 +3196,8 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   },
   {
     "product": {
@@ -3336,7 +3356,8 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   },
   {
     "product": {
@@ -3495,7 +3516,8 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   },
   {
     "product": {
@@ -3654,7 +3676,8 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   },
   {
     "product": {
@@ -3813,6 +3836,7 @@
     "cost": 0,
     "productTime": 0,
     "productCount": 0,
-    "blueprintCost": 0
+    "blueprintCost": 0,
+    "type": "Structure"
   }
 ]

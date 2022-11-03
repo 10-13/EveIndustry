@@ -17,7 +17,7 @@ namespace EveIndustry.Instruments.Items
 {
     public partial class ItemListVeiw : Form
     {
-        FileSystemServices services = new FileSystemServices(Environment.GetEnvironmentVariable("FileServicePath"));
+        FileSystemService services = new FileSystemService(Environment.GetEnvironmentVariable("FileServicePath"));
         Storage f;
         private InventoryList List;
 
@@ -62,7 +62,7 @@ namespace EveIndustry.Instruments.Items
         {
             if(listBox1.SelectedIndex > -1)
             {
-                if(decimal.TryParse(toolStripTextBox1.Text,out decimal res))
+                if(double.TryParse(toolStripTextBox1.Text,out double res))
                 {
                     this.List.Items[listBox1.SelectedIndex].Cost = res;
                     listBox1.Items[listBox1.SelectedIndex] = InventoryListConverter.ToIngameRow(this.List.Items[listBox1.SelectedIndex]);

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace EveEchoesIndustry.Services
 {
-    public class FileSystemServices
+    public class FileSystemService
     {
         private Dictionary<string, Storage> storages = new Dictionary<string, Storage>();
 
@@ -23,20 +23,20 @@ namespace EveEchoesIndustry.Services
             }
         }
 
-        public FileSystemServices(string Path = "\\data")
+        public FileSystemService(string Path = "\\data")
         {
             this.Path = Path;
-            if (!File.Exists(Environment.CurrentDirectory + Path + "\\app\\storages.txt")) {
+            if (!File.Exists(Environment.CurrentDirectory + Path + "\\app\\storages.json")) {
                 if (!Directory.Exists(Environment.CurrentDirectory + Path + "\\app"))
                     Directory.CreateDirectory(Environment.CurrentDirectory + Path + "\\app");
-                File.Create(Environment.CurrentDirectory + Path + "\\app\\storages.txt");
+                File.Create(Environment.CurrentDirectory + Path + "\\app\\storages.json");
             }
             int c = 0;
             Storage[] storages = null;
             reif: if (c < 10 && storages == null)
             try
             {
-                storages = JsonConvert.DeserializeObject<Storage[]>(File.ReadAllText(Environment.CurrentDirectory + Path + "\\app\\storages.txt"));
+                storages = JsonConvert.DeserializeObject<Storage[]>(File.ReadAllText(Environment.CurrentDirectory + Path + "\\app\\storages.json"));
             }
             catch(Exception ex)
             {
@@ -75,7 +75,7 @@ namespace EveEchoesIndustry.Services
 
         public void Save()
         {
-            File.WriteAllText(Environment.CurrentDirectory + Path + "\\app\\storages.txt", JsonConvert.SerializeObject(storages.Values.ToArray()));
+            File.WriteAllText(Environment.CurrentDirectory + Path + "\\app\\storages.json", JsonConvert.SerializeObject(storages.Values.ToArray()));
             
         }
         public void CreateDump()
@@ -99,7 +99,7 @@ namespace EveEchoesIndustry.Services
         public string Name { get; set; }
 
         [JsonIgnore]
-        private FileSystemServices parentService = null;
+        private FileSystemService parentService = null;
 
         private Storage()
         {
@@ -107,7 +107,7 @@ namespace EveEchoesIndustry.Services
             Name = "Empty owner";
         }
 
-        public static Storage BuildStorage(in FileSystemServices service,string Name,string Path)
+        public static Storage BuildStorage(in FileSystemService service,string Name,string Path)
         {
             Storage res = new Storage();
             res.parentService = service;
@@ -122,11 +122,19 @@ namespace EveEchoesIndustry.Services
         {
             if (!File.Exists(BuildPath() + "\\" + FileName))
                 File.Create(BuildPath() + "\\" + FileName);
-            return File.ReadAllText(BuildPath() + "\\" + FileName);
+            retry: try
+            {
+                return File.ReadAllText(BuildPath() + "\\" + FileName);
+            }
+            catch(Exception ex)
+            {
+                Thread.Sleep(10);
+            }
+            goto retry;
         }
         public void WriteToFile(string FileName,string Text)
         {
-            File.WriteAllText(BuildPath() + "\\" + FileName,Text);
+            File.AppendAllLines(BuildPath() + "\\" + FileName,new List<string>{ Text });
         }
 
         public DirectoryInfo GetDirectoryInfo()
