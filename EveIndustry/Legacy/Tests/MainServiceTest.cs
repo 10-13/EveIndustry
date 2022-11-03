@@ -7,9 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using EveEchoesIndustry.Items;
+using EveEchoesIndustry.Recipes;
 using EveEchoesIndustry.Services;
 using EveEchoesIndustry.Skills;
+using Newtonsoft.Json;
 
 namespace EveIndustry.Legacy.Tests
 {
@@ -17,11 +19,17 @@ namespace EveIndustry.Legacy.Tests
     {
         private MainService service;
 
+        private Skill ActualSkill = new Skill();
+        private float Efficiency = 0;
+        private event Action SkillChanged;
+
         public MainServiceTest()
         {
             InitializeComponent();
             service = new MainService();
             comboBox1.Items.AddRange(service.GetRecipeTypes().ToArray());
+            Instruments.Items.ItemListVeiw f = new Instruments.Items.ItemListVeiw();
+            f.Show();
         }
 
         private void MainServiceTest_Load(object sender, EventArgs e)
@@ -43,6 +51,27 @@ namespace EveIndustry.Legacy.Tests
             {
                 label1.Text = "null";
                 label2.Text = "null";
+            }
+        }
+
+        private void AccountSkill()
+        {
+            float res = ActualSkill.GetProcentageMatirialEffeciency();
+            if (checkBox1.Checked)
+                res -= 1;
+            res = MathF.Round(res);
+            Efficiency = res;
+            label3.Text = res.ToString();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(comboBox2.SelectedIndex > -1)
+            {
+                Recipe rec = service.GetRecipeByName(comboBox2.ToString());
+                service.RecipeService.ExtendRecipe(ref rec);
+                InventoryList rq = rec.Requirements;
+                rq.Multiply((long)numericUpDown1.Value);
             }
         }
     }

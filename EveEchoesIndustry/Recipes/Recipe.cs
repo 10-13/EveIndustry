@@ -60,7 +60,7 @@ namespace EveEchoesIndustry.Recipes
 
         public override string ToString()
         {
-            return Product.Name + " " + Count.ToString() + "x";
+            return Product.Name;// + " " + Count.ToString() + "x";
         }
     }
 }

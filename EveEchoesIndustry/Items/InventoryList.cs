@@ -77,6 +77,11 @@ namespace EveEchoesIndustry.Items
             foreach(InventoryItem item in Items)
                 item.Count *= Mult;
         }
+        public void Multiply(float Mult)
+        {
+            foreach (InventoryItem item in Items)
+                item.Count = (long)MathF.Round(0.5f + Mult * item.Count);
+        }
     }
 
     public static class InventoryListConverter

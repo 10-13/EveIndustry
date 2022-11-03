@@ -92,12 +92,15 @@ namespace EveEchoesIndustry.Skills
         public string Name { get; set; }
 
         [JsonProperty("basic")]
+        [JsonConverter(typeof(ConverterEnum))]
         public Basic BasicSkill { get; set; }
 
         [JsonProperty("advanced")]
+        [JsonConverter(typeof(ConverterEnum))]
         public Advanced AdvancedSkill { get; set; }
 
         [JsonProperty("expert")]
+        [JsonConverter(typeof(ConverterEnum))]
         public Expert ExpertSkill { get; set; }
 
         public Skill() { Name = "No name"; }
@@ -118,7 +121,7 @@ namespace EveEchoesIndustry.Skills
 
         public override string ToString()
         {
-            return Array.IndexOf(Enum.GetValues<Basic>(), BasicSkill).ToString() + "\\" + Array.IndexOf(Enum.GetValues<Basic>(), AdvancedSkill).ToString() + "\\" + Array.IndexOf(Enum.GetValues<Expert>(), ExpertSkill).ToString();
+            return Array.IndexOf(Enum.GetValues<Basic>(), BasicSkill).ToString() + "\\" + Array.IndexOf(Enum.GetValues<Advanced>(), AdvancedSkill).ToString() + "\\" + Array.IndexOf(Enum.GetValues<Expert>(), ExpertSkill).ToString();
         }
     }
 
@@ -166,4 +169,38 @@ namespace EveEchoesIndustry.Skills
             return MathF.Round(base.GetProcentageMatirialEffeciency() - (float)BasicCSkill - (float)ExpertCSkill - (float)AdvancedCSkill + (float)BasicCASkill + (float)ExpertCASkill + (float)AdvancedCASkill);
         }
     }
+
+
+
+    public class ConverterEnum : JsonConverter
+    {
+        public ConverterEnum()
+        {
+
+        }
+        public override bool CanConvert(Type objectType)
+        {
+            return objectType.IsEnum;
+        }
+
+        public override object? ReadJson(JsonReader reader, Type objectType, object? existingValue, JsonSerializer serializer)
+        {
+
+            if(reader.Value is int) 
+                if((int)reader.Value > -1) 
+                    if((int)reader.Value < objectType.GetEnumValues().Length)
+                        return objectType.GetEnumValues().GetValue((int)reader.Value);
+            if (reader.Value is long)
+                if ((long)reader.Value > -1)
+                    if ((long)reader.Value < objectType.GetEnumValues().Length)
+                        return objectType.GetEnumValues().GetValue((long)reader.Value);
+            return null;
+        }
+
+        public override void WriteJson(JsonWriter writer, object? value, JsonSerializer serializer)
+        {
+            writer.WriteValue(Array.IndexOf(value.GetType().GetEnumValues(),value));
+        }
+    }
+
 }
