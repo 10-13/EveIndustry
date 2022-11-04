@@ -62,5 +62,12 @@ namespace EveEchoesIndustry.Services
                     return r.Name == Name;
                 }), null);
         }
+
+        public Storage GetStorage(string Name)
+        {
+            if (fileSystemService.ContainsStorage(Name))
+                return fileSystemService.GetOrCreateNew(Name);
+            return null;
+        }
     }
 }

@@ -57,7 +57,7 @@ namespace EveIndustry.Instruments.Items
         private void button5_Click(object sender, EventArgs e)
         {
             InventoryList C = A.Clone() as InventoryList;
-            C.AddList(B);
+            C.AddList(B.Clone() as InventoryList);
             ItemListVeiw f = new ItemListVeiw(C);
             f.Show();
         }
@@ -65,7 +65,7 @@ namespace EveIndustry.Instruments.Items
         private void button6_Click(object sender, EventArgs e)
         {
             InventoryList C = A.Clone() as InventoryList;
-            C.RemoveList(B,out InventoryList empty);
+            C.RemoveList(B.Clone() as InventoryList, out InventoryList empty);
             ItemListVeiw f = new ItemListVeiw(C);
             f.Show();
         }
@@ -73,7 +73,7 @@ namespace EveIndustry.Instruments.Items
         private void button7_Click(object sender, EventArgs e)
         {
             InventoryList C = A.Clone() as InventoryList;
-            C.RemoveList(B, out InventoryList empty);
+            C.RemoveList(B.Clone() as InventoryList, out InventoryList empty);
             ItemListVeiw f = new ItemListVeiw(empty);
             f.Show();
         }

@@ -48,7 +48,7 @@ namespace EveEchoesIndustry.Items
                     if (buf.Count < item.Count)
                     {
                         Overabundance.Items.Add(item);
-                        Overabundance.Items[Overabundance.Items.Count].Count = item.Count - buf.Count;
+                        Overabundance.Items[Overabundance.Items.Count - 1].Count = item.Count - buf.Count;
                         buf.Count = 0;
                     }
                     else
@@ -123,21 +123,25 @@ namespace EveEchoesIndustry.Items
             }
             f.Append(item.Count.ToString());
             f.Append(' ', 20 - item.Count.ToString().Length);
-            f.Append(item.TotalCost.ToString());
+            f.Append(Math.Round(item.TotalCost).ToString());
             f.Append(' ', 30 - item.TotalCost.ToString().Length);
             return f.ToString();
         }
         public static string ToGoodList(in InventoryList list)
         {
-            string res = "Name                                    Count               Cost";
+            string res = "Name                                    Count               Cost\n=====================";
             for (int i = 0; i < list.Items.Count; i++)
             {
                 res += "\n" + ToGoodRow(list.Items[i]);
             }
+            res += "\n=====================";
+            res += "\nTotal cost:   " + list.TotalCost.ToString();
             return res;
         }
         public static InventoryItem FromIngameRow(string str)
         {
+            if (str.EndsWith('\r'))
+                str = str.Substring(0, str.Length - 1);
             InventoryItem item = new InventoryItem();
             if (int.TryParse(str.Substring(0, str.IndexOf("\t")),out int r1))
                 item.Id = r1;
@@ -167,3 +171,22 @@ namespace EveEchoesIndustry.Items
         }
     }
 }
+
+
+/*
+
+ID  Name    Count   Cost
+1   Tritanium   39236944    78473888
+2   Pyerite 10216066    40864264
+3   Mexallon    3107401 55933218
+4   Isogen  482030  11086690
+5   Nocxium 127294  22658332
+6   Zydrine 54988   50588960
+7   Megacyte    40597   97432800
+8   Condensed Alloy 139245  22975425
+9   Precious Alloy  218997  76648950
+10  Crystal Compound    261887  72018925
+11  Reactive Metals 15819   4903890
+12  Toxic Metals    68918   53756040
+ 
+*/

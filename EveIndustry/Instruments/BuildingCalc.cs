@@ -128,7 +128,7 @@ namespace EveIndustry.Instruments
         {
             if (comboBox2.SelectedIndex > -1)
             {
-                recipe = service.GetRecipesByType(comboBox1.Text)[comboBox2.SelectedIndex];
+                recipe = service.GetRecipesByType(comboBox1.Text)[comboBox2.SelectedIndex].Clone() as Recipe;
 
             }
         }

@@ -26,6 +26,8 @@ namespace EveIndustry.Instruments.Recipes
             if (f != null)
             {
                 var d = RecipeParcer.FromCSVString(richTextBox2.Lines, f);
+                foreach (var item in d)
+                    item.Type = "Structure";
                 Clipboard.SetText(JsonConvert.SerializeObject(d));
             }
         }

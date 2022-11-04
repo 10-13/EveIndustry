@@ -140,5 +140,18 @@ namespace EveIndustry.Instruments.Items
             this.List.Validate();
             Clipboard.SetText("```\n" + InventoryListConverter.ToGoodList(in this.List) + "\n```");
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            this.List.Validate();
+            Clipboard.SetText(JsonConvert.SerializeObject(this.List));
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            List = JsonConvert.DeserializeObject<InventoryList>(Clipboard.GetText());
+            UpdateListData();
+            UpdateTextData();
+        }
     }
 }
