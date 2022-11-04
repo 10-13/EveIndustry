@@ -33,6 +33,14 @@
       "cost": 1500
     },
     {
+      "name": "Lustering Alloy",
+      "cost": 1500
+    },
+    {
+      "name": "Sheen Compound",
+      "cost": 80
+    },
+    {
       "name": "Gleaming Alloy",
       "cost": 80
     },
@@ -105,6 +113,8 @@
     2,
     8,
     3,
+    0,
+    0,
     0,
     0,
     0,

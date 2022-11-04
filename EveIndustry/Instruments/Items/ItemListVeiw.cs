@@ -17,17 +17,12 @@ namespace EveIndustry.Instruments.Items
 {
     public partial class ItemListVeiw : Form
     {
-        FileSystemService services = new FileSystemService(Environment.GetEnvironmentVariable("FileServicePath"));
-        Storage f;
         private InventoryList List;
 
         public ItemListVeiw(InventoryList list = null)
         {
             InitializeComponent();
             List = list;
-            f = services.GetOrCreateNew("ItemListView", "ILV");
-            if (List == null)
-                List = JsonConvert.DeserializeObject<InventoryList>(f.ReadFromFile("data.json"));
             if (List == null)
                 List = new InventoryList();
             UpdateListData();
@@ -126,6 +121,7 @@ namespace EveIndustry.Instruments.Items
 
         private void button2_Click(object sender, EventArgs e)
         {
+            this.List.Validate();
             Clipboard.SetText(InventoryListConverter.ToIngameList(in this.List));
         }
 
@@ -136,9 +132,13 @@ namespace EveIndustry.Instruments.Items
 
         private void ItemListVeiw_FormClosing(object sender, FormClosingEventArgs e)
         {
-            f.WriteToFile("data.json", JsonConvert.SerializeObject(List));
-            services.Save();
-            services.CreateDump();
+            
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.List.Validate();
+            Clipboard.SetText("```\n" + InventoryListConverter.ToGoodList(in this.List) + "\n```");
         }
     }
 }

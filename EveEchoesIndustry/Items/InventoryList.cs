@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace EveEchoesIndustry.Items
 {
-    public class InventoryList
+    public class InventoryList : ICloneable
     {
         [JsonProperty("items")]
         public List<InventoryItem> Items { get; set; }
@@ -33,6 +33,8 @@ namespace EveEchoesIndustry.Items
         public void Validate()
         {
             Items.RemoveAll(new Predicate<InventoryItem>((InventoryItem item) => { return item.Count == 0; }));
+            for (int i = 0; i < Items.Count; i++)
+                Items[i].Id = i + 1;
         }
 
         public void RemoveList(in InventoryList list,out InventoryList Overabundance)
@@ -40,7 +42,7 @@ namespace EveEchoesIndustry.Items
             Overabundance = new InventoryList();
             foreach(InventoryItem item in list.Items)
             {
-                if(Items.First(new Func<InventoryItem, bool>((InventoryItem _item) => { return _item.StoredItem.Name == item.StoredItem.Name; })) != null)
+                if(Items.FirstOrDefault(new Func<InventoryItem, bool>((InventoryItem _item) => { return _item.StoredItem.Name == item.StoredItem.Name; }),null) != null)
                 {
                     var buf = Items.First(new Func<InventoryItem, bool>((InventoryItem _item) => { return _item.StoredItem.Name == item.StoredItem.Name; }));
                     if (buf.Count < item.Count)
@@ -65,7 +67,7 @@ namespace EveEchoesIndustry.Items
         {
             foreach(InventoryItem item in list.Items)
             {
-                if (Items.Contains(item))
+                if (Items.FirstOrDefault(new Func<InventoryItem,bool>((InventoryItem it) => { return it.Name == item.Name; }),null) != null)
                     Items.First(new Func<InventoryItem, bool>((InventoryItem _item) => { return _item.StoredItem.Name == item.StoredItem.Name; })).Count += item.Count;
                 else
                     Items.Add(item);
@@ -77,10 +79,18 @@ namespace EveEchoesIndustry.Items
             foreach(InventoryItem item in Items)
                 item.Count *= Mult;
         }
-        public void Multiply(float Mult)
+        public void Multiply(Object f,float Mult)
         {
             foreach (InventoryItem item in Items)
-                item.Count = (long)MathF.Round(0.5f + Mult * item.Count);
+                item.Count = (long)MathF.Round(0.5f + Mult * (float)item.Count);
+        }
+
+        public object Clone()
+        {
+            List<InventoryItem> nItems = new List<InventoryItem>();
+            foreach (var item in Items)
+                nItems.Add((InventoryItem)item.Clone());
+            return new InventoryList(nItems);
         }
     }
 
@@ -95,9 +105,36 @@ namespace EveEchoesIndustry.Items
             string str = "ID\tName\tCount\tCost";
             for(int i = 0;i < list.Items.Count;i++)
             {
-                str += "\n" + ToIngameRow(list.Items[i]);
+                str += "\n" + ToIngameRow(list.Items[i],i + 1);
             }
             return str;
+        }
+        public static string ToGoodRow(in InventoryItem item)
+        {
+            StringBuilder f = new StringBuilder();
+            if (item.Name.Length > 40) 
+            {
+                f.Append(item.Name.Substring(0, 40));
+            }
+            else
+            {
+                f.Append(item.Name);
+                f.Append(' ',40 - item.Name.Length);
+            }
+            f.Append(item.Count.ToString());
+            f.Append(' ', 20 - item.Count.ToString().Length);
+            f.Append(item.TotalCost.ToString());
+            f.Append(' ', 30 - item.TotalCost.ToString().Length);
+            return f.ToString();
+        }
+        public static string ToGoodList(in InventoryList list)
+        {
+            string res = "Name                                    Count               Cost";
+            for (int i = 0; i < list.Items.Count; i++)
+            {
+                res += "\n" + ToGoodRow(list.Items[i]);
+            }
+            return res;
         }
         public static InventoryItem FromIngameRow(string str)
         {

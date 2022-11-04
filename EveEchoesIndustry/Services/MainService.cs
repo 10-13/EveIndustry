@@ -48,12 +48,19 @@ namespace EveEchoesIndustry.Services
 
         public Recipe GetRecipeByName(string Name)
         {
+
+            Recipe r = new Recipe();
+            
             return RecipeService.FirstOrDefault(new Func<Recipe, bool>((Recipe r) => { return r.Product.Name == Name; }), null);
         }
 
         public Skill GetSkillByName(string Name)
         {
-            return SkillService.FirstOrDefault(new Func<Skill, bool>((Skill r) => { return r.Name == Name; }), null);
+            return SkillService.FirstOrDefault(new Func<Skill, bool>(
+                (Skill r) => 
+                { 
+                    return r.Name == Name;
+                }), null);
         }
     }
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EveEchoesIndustry.Items
 {
-    public class Item
+    public class Item : ICloneable
     {
         public static Item Empty
         {
@@ -23,10 +23,15 @@ namespace EveEchoesIndustry.Items
         [JsonProperty("cost")]
         public double Cost { get; set; }
 
-        public Item(string name = "Empty", long cost = 0)
+        public Item(string name = "Empty", double cost = 0)
         {
             Name = name;
             Cost = cost;
+        }
+
+        public object Clone()
+        {
+            return new Item(Name, Cost);
         }
     }
 }

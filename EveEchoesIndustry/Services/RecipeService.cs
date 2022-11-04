@@ -79,6 +79,7 @@ namespace EveEchoesIndustry.Services
                     recipe.Requirements.AddList(buf);
                 }
                 recipe.Requirements.RemoveList(toRemove, out InventoryList other);
+                other.Validate();
                 if (other.Items.Count > 0)
                     throw new Exception("Removed more then exsists");
                 toRemove.Items.Clear();

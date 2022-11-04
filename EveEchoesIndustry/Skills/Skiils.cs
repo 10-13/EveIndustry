@@ -86,7 +86,7 @@ namespace EveEchoesIndustry.Skills
     }
 
 
-    public class Skill
+    public class Skill : ICloneable
     {
         [JsonProperty("name")]
         public string Name { get; set; }
@@ -122,6 +122,11 @@ namespace EveEchoesIndustry.Skills
         public override string ToString()
         {
             return Array.IndexOf(Enum.GetValues<Basic>(), BasicSkill).ToString() + "\\" + Array.IndexOf(Enum.GetValues<Advanced>(), AdvancedSkill).ToString() + "\\" + Array.IndexOf(Enum.GetValues<Expert>(), ExpertSkill).ToString();
+        }
+
+        public object Clone()
+        {
+            return new Skill(Name) { BasicSkill = this.BasicSkill, AdvancedSkill = this.AdvancedSkill, ExpertSkill = this.ExpertSkill };
         }
     }
 

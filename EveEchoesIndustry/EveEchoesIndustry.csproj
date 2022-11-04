@@ -10,4 +10,6 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties recipes_4default_4shiprecipes_1json__JsonSchema="https://appsemble.app/api.json" /></VisualStudio></ProjectExtensions>
+
 </Project>

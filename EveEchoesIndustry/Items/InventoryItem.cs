@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EveEchoesIndustry.Items
 {
-    public class InventoryItem
+    public class InventoryItem : ICloneable
     {
         [JsonProperty("item")]
         [JsonRequired]
@@ -55,11 +55,16 @@ namespace EveEchoesIndustry.Items
             }
         }
 
-        public InventoryItem(Item item = null,int? count = null,int? id = null)
+        public InventoryItem(Item item = null,long? count = null,int? id = null)
         {
             StoredItem = item == null ? Item.Empty : item;
             Count = count.HasValue ? count.Value : 0;
             Id = id;
+        }
+
+        public object Clone()
+        {
+            return new InventoryItem((Item)StoredItem.Clone(), (long?)Count, Id);
         }
     }
 }

@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -21,6 +22,9 @@ namespace EveIndustry.Legacy.Tests
 
         private Skill ActualSkill = new Skill();
         private float Efficiency = 0;
+
+        delegate void MA();
+
         private event Action SkillChanged;
 
         public MainServiceTest()
@@ -30,6 +34,7 @@ namespace EveIndustry.Legacy.Tests
             comboBox1.Items.AddRange(service.GetRecipeTypes().ToArray());
             Instruments.Items.ItemListVeiw f = new Instruments.Items.ItemListVeiw();
             f.Show();
+            SkillChanged += AccountSkill;
         }
 
         private void MainServiceTest_Load(object sender, EventArgs e)
@@ -42,6 +47,7 @@ namespace EveIndustry.Legacy.Tests
             comboBox2.Items.Clear();
             comboBox2.Items.AddRange(service.GetRecipesByType((comboBox1.SelectedItem.ToString())).ToArray());
             Skill s = service.GetSkillByName(comboBox1.SelectedItem.ToString());
+            ActualSkill = s;
             if (s != null)
             {
                 label1.Text = s.Name;
@@ -52,6 +58,7 @@ namespace EveIndustry.Legacy.Tests
                 label1.Text = "null";
                 label2.Text = "null";
             }
+            SkillChanged.Invoke();
         }
 
         private void AccountSkill()
@@ -68,11 +75,18 @@ namespace EveIndustry.Legacy.Tests
         {
             if(comboBox2.SelectedIndex > -1)
             {
-                Recipe rec = service.GetRecipeByName(comboBox2.ToString());
+                Recipe rec = service.GetRecipesByType(comboBox1.Text)[comboBox2.SelectedIndex];
                 service.RecipeService.ExtendRecipe(ref rec);
                 InventoryList rq = rec.Requirements;
-                rq.Multiply((long)numericUpDown1.Value);
+                rq.Multiply((int)numericUpDown1.Value);
+                rq.Multiply(null,Efficiency / 100);
+                Clipboard.SetText(InventoryListConverter.ToIngameList(rq));
             }
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            SkillChanged.Invoke();
         }
     }
 }
